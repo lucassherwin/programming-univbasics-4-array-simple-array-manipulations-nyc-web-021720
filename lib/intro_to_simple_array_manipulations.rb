@@ -43,5 +43,5 @@ def using_delete(arr, element)
 end
 
 def using_delete_at(arr, i)
-  arr.delete(i)
+  arr.pop(i)
 end
